@@ -1,3 +1,4 @@
+![](sensor.png)
 # Sensor Box
 
 <ol>
